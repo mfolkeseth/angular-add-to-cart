@@ -16,3 +16,9 @@ Look inside the demo folder.
 * npm start
 
 Browse the example at http://0.0.0.0:8080
+
+#Contribute
+Please feel free to make a pull request or add an issue.
+This is a directive pulled out from a project I am currently working on, so it would be great to generalize it for wider use.
+
+Cheers!
