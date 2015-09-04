@@ -1,0 +1,24 @@
+{
+  "name": "angular-add-to-cart",
+  "version": "1.0.0",
+  "description": "Add item to shopping cart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfolkeseth/angular-add-to-cart.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "Directive",
+    "ShoppingCart"
+  ],
+  "author": "Martin Folkeseth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfolkeseth/angular-add-to-cart/issues"
+  },
+  "homepage": "https://github.com/mfolkeseth/angular-add-to-cart#readme"
+}
