@@ -44,7 +44,6 @@
               window.setTimeout(function(){
                 var y = -src.offset().top + target.offset().top + target.height()/2;
                 var x = (target.offset().left-src.offset().left)+(target.width()/2);
-                console.log(target);
                 clone
                   .css('transform', 'translateX('+x+'px) translateY('+y+'px) scale(.01)')
                   .addClass('transform');
