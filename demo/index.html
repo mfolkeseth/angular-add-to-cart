@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="default.css">
+    <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.css">
+  </head>
+  <body ng-app="myDemo">
+    <div class="container">
+      <header class="clearfix">
+          <h1>Shopping app</h1>
+          <div class="shopping-cart">
+            <i class="fa fa-shopping-cart"></i>
+          </div>
+      </header>
+      <div class="product-details clearfix">
+        <div class="product-image-wrapper">
+          <img class="product-image" src="img/urban_legend.jpg">
+        </div>
+        <div class="product-actions">
+          <button ng-add-to-cart source=".product-image" target=".shopping-cart">Add to basket</button>
+        </div>
+      </div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
