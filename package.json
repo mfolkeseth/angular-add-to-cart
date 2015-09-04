@@ -4,13 +4,7 @@
   "description": "Add item to shopping cart",
   "main": "angular-add-to-cart.js",
   "dependencies": {
-    "angular": "^1.4.5",
-    "font-awesome": "^4.4.0",
-    "gulp": "^3.9.0",
-    "gulp-concat": "^2.6.0",
-    "gulp-sass": "^2.0.4",
-    "http-server": "^0.8.0",
-    "jquery": "^2.1.4"
+    "jquery": "*"
   },
   "devDependencies": {},
   "scripts": {
